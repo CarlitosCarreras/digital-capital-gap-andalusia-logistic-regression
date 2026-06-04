@@ -23,13 +23,3 @@ The survey provides information on:
 - Regional differences in technology adoption.
 
 The present study focuses on the Andalusian subsample of the survey and examines the socioeconomic, demographic, and technological factors associated with advanced digital capital.
-
----
-
-## Source
-
-Instituto Nacional de Estadística (INE). *Encuesta sobre Equipamiento y Uso de Tecnologías de la Información y Comunicación en los Hogares (TIC-H) 2025*.
-
-Available at:
-
-https://www.ine.es/dyngs/Prensa/TICH2025.htm
